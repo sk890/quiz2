@@ -1,63 +1,67 @@
 html body {
-	font-family: 'Helvetica', Arial, sans-serif;
-	color: #111;
-	background: #E7E7E7;
+    font-family: 'Helvetica', Arial, sans-serif;
+    color: #111;
+    background: #E7E7E7;
 }
 
 a {
-	color: #0078A0;
+    color: #0078A0;
 }
 
 .content {
-	text-align: center;
-	padding: 0 15% 20px;
-	border-style: solid;
-	
+    text-align: center;
+    padding: 0 15% 20px;
+    border-style: solid;
+    
 }
 
 .content h1 {
-	text-transform: uppercase;
-	font-weight: bold;
-	margin: 20px 0;
+    padding: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 20px 0;
 }
 
 .timeout{
-	border-style: solid;
-	margin-top: 25px;
-	margin-bottom: 25px;
+    padding: 10px;
+    border-style: solid;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 .mouse-over{
-	border-style: solid;
-	margin-top: 25px;
-	margin-bottom: 25px;
+    padding: 10px;
+    border-style: solid;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 .click{
-	border-style: solid;
-	margin-top: 25px;
-	margin-bottom: 25px;
+    padding: 10px;
+    border-style: solid;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 .content form {
-	padding: 10px;
-	width: 300px;
-	margin: 0 auto;
-	border-style: solid;
-	margin-top: 25px;
-	margin-bottom: 25px;
+    padding: 10px;
+    width: 300px;
+    margin: 0 auto;
+    border-style: solid;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 .content form input {
-	width: 100%;
-	border: 2px solid #107394;
-	color: #107394;
-	background: transparent;
-	margin-bottom: 25px;
+    width: 100%;
+    border: 2px solid #107394;
+    color: #107394;
+    background: transparent;
+    margin-bottom: 25px;
 }
 
 .part_two {
-	text-align: center;
-	padding: 0 15% 20px;
-	border-style: solid;
-	margin-top: 25px;
-	margin-bottom: 25px;
+    text-align: center;
+    padding: 0 15% 20px;
+    border-style: solid;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
